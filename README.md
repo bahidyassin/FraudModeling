@@ -2,18 +2,12 @@
 This project aims to build a model to detect fraudulent transactions based on historical data. We utilize two interpretable machine learning algorithms: Logistic Regression and Decision Tree, to predict fraud cases effectively and understand the model behavior.
 
 ### File Structure:
-$ tree
-.
-├── Fraud Model Overview.pdfL: Details the models used and the results.
-|
-├── Fraud Modeling.ipynb: Code needed to run the models.
-|
-├── Model Deployment Strategy.pdf: Details relevant MLOPs proceedures to deploy the model to an AWS instance.
-|
-├── Requirements.txt : needed libraries for the model to run.
-|
-└── README.md
-
+- **Fraud_Modeling_Project/**
+  - **Fraud_Model_Overview.pdf**: Details the models used and the results.
+  - **Fraud_Modeling.ipynb**: Code needed to run the models.
+  - **Model_Deployment_Strategy.pdf**: Details relevant MLOps procedures to deploy the model to an AWS instance.
+  - **Requirements.txt**: Needed libraries for the model to run.
+  - **README.md**: Project overview and instructions.
 
 
 
