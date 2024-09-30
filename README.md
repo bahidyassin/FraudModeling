@@ -1,6 +1,16 @@
 # Overview
 This project aims to build a model to detect fraudulent transactions based on historical data. We utilize two interpretable machine learning algorithms: Logistic Regression and Decision Tree, to predict fraud cases effectively and understand the model behavior.
 
+### File Structure:
+
+----+ Fraud Model Overview.pdfL: Details the models used and the results.
+|
+---+ Fraud Modeling.ipynb: Code needed to run the models.
+|
+----+ Model Deployment Strategy.pdf: Details relevant MLOPs proceedures to deploy the model to an AWS instance.
+|
+----+ Requirements.txt : needed libraries for the model to run.
+
 ## Dataset
 The dataset used for this project can be found on Kaggle: Fraudulent Transactions Data. The dataset contains transactional information, such as transaction type, amount, origin and destination account balances, and labels indicating fraudulent transactions.
 
